@@ -1,2 +1,6 @@
+# Development leftover
+.vscode/
+*.vsix
+
 # Quick start
-vsc-extension-quickstart.md`
+vsc-extension-quickstart.md
