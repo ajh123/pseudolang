@@ -3,6 +3,7 @@
     "displayName": "pseudolang",
     "description": "Pseudo-code highlighting intended by CCIT FT University of Indonesia.",
     "version": "0.0.1",
+    "publisher": "kennfatt",
     "engines": {
         "vscode": "^1.39.0"
     },
