@@ -1,0 +1,25 @@
+{
+    "name": "pseudolang",
+    "displayName": "pseudolang",
+    "description": "Pseudo-code highlighting intended by CCIT FT University of Indonesia.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "pseudolang",
+            "aliases": ["pseudolang", "pseudolang"],
+            "extensions": [".pseudocode"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "pseudolang",
+            "scopeName": "source.pseudolang",
+            "path": "./syntaxes/pseudolang.tmLanguage.json"
+        }]
+    }
+}
