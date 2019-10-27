@@ -13,24 +13,34 @@ The extension was written by following our module guidelines. Special thanks to 
 `begin - end`  
 
 **Function & Procedure**  
-`call`  
-`return`  
+```
+call
+return
+```
 
 **Variable declaration**  
-`character`  
-`numeric`  
-`function`  
-`procedure`  
+```
+character
+numeric
+function
+procedure
+```
 
 **Loop**  
-`for`  
-`while`  
-`repeat - until`  
+```
+for
+while
+repeat - until
+```
 
 **Conditional**  
-`if - else`  
-`switch - case`  
+```
+if - else
+switch - case
+```
 
 **Et cetera**  
-`continue`  
-`break`  
+```
+continue
+break
+```
