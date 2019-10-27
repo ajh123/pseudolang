@@ -1,9 +1,10 @@
 {
     "name": "pseudolang",
     "displayName": "pseudolang",
-    "description": "Pseudo-code highlighting intended by CCIT FT University of Indonesia.",
-    "version": "0.0.1",
+    "description": "Pseudo-code highlighting for Visual Studio code.",
+    "version": "0.0.2",
     "publisher": "kennfatt",
+    "icon": "assets/logo.png",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -14,7 +15,7 @@
         "languages": [{
             "id": "pseudolang",
             "aliases": ["pseudocode", "pseudo-code", "pseudolang"],
-            "extensions": [".pseudocode"],
+            "extensions": [".pseudocode", ".pseudo"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{

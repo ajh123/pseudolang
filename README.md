@@ -1,6 +1,6 @@
 # Pseudolang
 
-![sample](https://github.com/KennFatt/pseudolang/blob/master/assets/sample.png)
+![sample](https://raw.githubusercontent.com/KennFatt/pseudolang/master/assets/sample.png)
 
 Pseudolang is a highlighting guideline to write pseudocode. We know that pseudocode has many variants and no official guide to writing it.
 
@@ -46,4 +46,5 @@ break
 ```
 
 ## Credits and References
-[Visual Studio Code JavaScript - tmLanguage](https://github.com/microsoft/vscode/blob/master/extensions/javascript/syntaxes/JavaScript.tmLanguage.json)
+[Visual Studio Code JavaScript - tmLanguage](https://github.com/microsoft/vscode/blob/master/extensions/javascript/syntaxes/JavaScript.tmLanguage.json)  
+[Freepik - flaticon](https://www.flaticon.com/authors/freepik)
