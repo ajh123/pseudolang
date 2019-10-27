@@ -44,3 +44,6 @@ switch - case
 continue
 break
 ```
+
+## Credits and References
+[Visual Studio Code JavaScript - tmLanguage](https://github.com/microsoft/vscode/blob/master/extensions/javascript/syntaxes/JavaScript.tmLanguage.json)
