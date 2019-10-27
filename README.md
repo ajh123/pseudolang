@@ -1,6 +1,6 @@
 # Pseudolang
 
-![sample](./assets/sample.png)
+![sample](https://github.com/KennFatt/pseudolang/blob/master/assets/sample.png)
 
 Pseudolang is a highlighting guideline to write pseudocode. We know that pseudocode has many variants and no official guide to writing it.
 
