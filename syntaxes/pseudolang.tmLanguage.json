@@ -12,7 +12,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.pseudolang",
-				"match": "\\b(begin|end|call|repeat|until|switch|case|break|continue|if|else|while|for|return)\\b"
+				"match": "\\b(START|END|CALL|REPEAT|UNTIL|END-REPEAT|SWITCH|CASE|END-CASE|BREAK|CONTINUE|IF|ELSE|END-IF|WHILE|END-WHILE|FOR|END-FOR|RETURN)\\b"
 			}]
 		},
 		"strings": {
